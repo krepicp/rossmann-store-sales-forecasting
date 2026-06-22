@@ -79,12 +79,12 @@ The entire workflow follows the **CRISP-DM** methodology, covering business unde
         ├── store_states.csv 
 ├── /02_processed/
     ├── /01_Rossmann/
-        ├── rossmann_data_processed_final.parquet # csv to large
+        ├── rossmann_data_processed_final.parquet # csv too large
     ├── /02_external/
         ├── state_per_store_assignment.csv # contain information about the federal states assigned to stores
         ├── weather_data_processed.csv # weather data for individual states extracted using the Open-Meteo API
 ├── /03_modeling/
-    ├── rossmann_dataset_for_modeling_final.parquet # csv to large
+    ├── rossmann_dataset_for_modeling_final.parquet # csv too large
 
 /02_notebooks/
 ├── 01_Rossmann_data_processing.ipynb
