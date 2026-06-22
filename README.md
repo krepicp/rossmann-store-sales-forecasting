@@ -6,15 +6,15 @@
 
 Rossmann is one of the largest retail chains in Europe, specializing in cosmetics, personal care, and household products. Reliable sales forecasting is crucial for retail operations, as it supports inventory management, workforce scheduling, promotional planning, budgeting, supplier coordination, and strategic business decisions.
 
-This project is based on the real-world Rossmann Store Sales Kaggle competition, where the objective was to **predict daily sales for 1,115 stores operating across Germany up to six weeks in advance** using information on promotions, competition, store characteristics, and calendar effects. 
+This project is based on the real-world Rossmann Store Sales Kaggle competition, where **the objective was to predict daily sales for 1,115 stores operating across Germany up to six weeks in advance** using information on promotions, competition, store characteristics, and calendar effects. 
 
-The data used in this project covers the period from **01-01-2013 to 31-07-2015**, providing over two and a half years of historical daily sales observations.
+The data used in this project covers **the period from 01-01-2013 to 31-07-2015**, providing over two and a half years of historical daily sales observations.
 
-The **main goal** of this project was to **build an accurate and interpretable forecasting model while following realistic time-series forecasting principles**. Particular attention was devoted to **data leakage prevention, time-based validation, and robust feature engineering**.
+The **main goal of this project was to build an accurate and interpretable forecasting model while following realistic time-series forecasting principles**. Particular attention was devoted to **data leakage prevention, time-based validation, and robust feature engineering**.
 
-In addition to traditional one-step forecasting, a **recursive forecasting** approach was implemented to better simulate real-world production conditions where future lag values are unknown.
+In addition to traditional one-step forecasting, **a recursive forecasting approach** was implemented **to better simulate real-world production conditions** where future lag values are unknown.
 
-The project also incorporates model explainability techniques to identify key sales drivers and generate business-oriented insights that can support retail decision-making.
+The project also incorporates **model explainability techniques** to identify key sales drivers and generate business-oriented insights that can support retail decision-making.
 
 The entire workflow follows the **CRISP-DM** methodology, covering business understanding, data understanding, data preparation, modeling, evaluation, and *future deployment*.
 
