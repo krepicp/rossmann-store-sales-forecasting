@@ -1,0 +1,114 @@
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+5872b309-cad4-4d09-a25c-0b2bcb1494af;DE;2011-12-23;2012-01-01;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+63538a58-1aa5-496d-aa2d-a2992aaee25f;DE;2012-02-06;2012-02-11;School;Regional;DE Winterferien,EN Winter Holidays;TH
+f96f49c2-8b33-4e64-a9d6-d1e0245a7f7d;DE;2012-04-02;2012-04-13;School;Regional;DE Osterferien,EN Easter Holidays;TH
+e59f8707-b641-4e21-af5a-3eb288e8883c;DE;2012-05-25;2012-05-29;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+4e7269c8-042c-484b-8218-0cca7b45e7ae;DE;2012-07-23;2012-08-31;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+92ba9e2a-d6e9-4a3a-880b-41f0ce1df2b9;DE;2012-10-22;2012-11-03;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+38116458-da51-409b-99ed-6191327e85c2;DE;2012-12-24;2013-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+7a3d1ee7-97f2-442f-be5e-ec196c4af989;DE;2013-02-18;2013-02-23;School;Regional;DE Winterferien,EN Winter Holidays;TH
+963ac8ac-ef8e-4888-8792-cae0f62832fe;DE;2013-03-25;2013-04-06;School;Regional;DE Osterferien,EN Easter Holidays;TH
+e129cd4c-7d2e-489b-9618-f3022b4fbb8b;DE;2013-05-10;2013-05-10;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+2f7ff812-6114-4571-94a0-a6f2a10274db;DE;2013-07-15;2013-08-23;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+e56340f5-2d59-4fad-8306-3d3003b768df;DE;2013-10-21;2013-11-02;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+778b0583-3ad5-4678-affb-5565e0b3adc6;DE;2013-12-23;2014-01-04;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+6103c09f-6a57-4885-93f5-95257a60bd86;DE;2014-02-17;2014-02-22;School;Regional;DE Winterferien,EN Winter Holidays;TH
+d5dd6bcd-276d-4b73-8ee2-0355a2f451eb;DE;2014-04-19;2014-05-02;School;Regional;DE Osterferien,EN Easter Holidays;TH
+d7280289-8bb3-4e16-8fab-24640cf2b41c;DE;2014-05-30;2014-05-30;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+9aeab52a-1f1d-4c00-9e97-cfd1a06987f1;DE;2014-07-21;2014-08-29;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+9a5ed681-7f73-4981-a454-2fc322b71819;DE;2014-10-06;2014-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+7160bed2-90e4-4451-a063-e1f81eb8da18;DE;2014-12-22;2015-01-03;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+1f5534cf-2fef-43f1-91a4-c8ff35234d32;DE;2015-02-02;2015-02-07;School;Regional;DE Winterferien,EN Winter Holidays;TH
+d77af357-4bbb-484e-9395-0453c197e15b;DE;2015-03-30;2015-04-11;School;Regional;DE Osterferien,EN Easter Holidays;TH
+9ec4595f-4c41-42d8-a1f1-c71efac74514;DE;2015-05-15;2015-05-15;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+e3220bfe-707e-4792-89b2-99daccfe1d82;DE;2015-07-13;2015-08-21;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+3e46f918-40a7-479a-a4e7-5f6f052daa20;DE;2015-10-05;2015-10-17;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+536598f5-0ff0-49b7-b7f8-371950e0e95c;DE;2015-12-23;2016-01-02;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+69f32258-31fa-4036-b4ec-7574af92ecde;DE;2016-02-01;2016-02-06;School;Regional;DE Winterferien,EN Winter Holidays;TH
+e925a59e-32f7-40bb-830d-3afc1b73a2f3;DE;2016-03-24;2016-04-02;School;Regional;DE Osterferien,EN Easter Holidays;TH
+73f0a44e-330e-4299-a066-e0272089db40;DE;2016-05-06;2016-05-06;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+df119741-a1ec-4e96-9c07-9e13d4656a4d;DE;2016-06-27;2016-08-10;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+7f16cb5c-1f0d-4ed5-9ad2-bfa4b90d6334;DE;2016-10-10;2016-10-22;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+0ab9dce2-048b-4487-a254-a80d481f879e;DE;2016-12-23;2016-12-31;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+bc34ddb6-6de1-453f-a409-4e80ccef388c;DE;2017-02-06;2017-02-11;School;Regional;DE Winterferien,EN Winter Holidays;TH
+5e8d6767-7153-4884-bb27-c756b869e97e;DE;2017-04-10;2017-04-21;School;Regional;DE Osterferien,EN Easter Holidays;TH
+bf0f5685-9183-4535-bac4-479363117a19;DE;2017-05-26;2017-05-26;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+a2ab1c5e-3794-49b1-be3a-b9e5751ab519;DE;2017-06-26;2017-08-09;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+619c3a98-bd86-485b-92a6-60f521c92877;DE;2017-10-02;2017-10-14;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+098c6d41-1645-46c3-aadd-ecdafd843bef;DE;2017-12-22;2018-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+0610d9c3-f1db-47a5-8ff8-da1aae5c431a;DE;2018-02-05;2018-02-09;School;Regional;DE Winterferien,EN Winter Holidays;TH
+68717f44-2aeb-486a-aa59-d6ca6fb60314;DE;2018-03-26;2018-04-07;School;Regional;DE Osterferien,EN Easter Holidays;TH
+606c0ad7-e5c2-4739-82fe-9dd0dd352ac0;DE;2018-05-11;2018-05-11;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+695f82cb-913b-49e6-85ef-020fdc522012;DE;2018-07-02;2018-08-11;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+ca072e8f-c5f9-4970-8f49-09853b5c8da4;DE;2018-10-01;2018-10-13;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+78b7da5b-407e-479f-9005-79554b9d53fc;DE;2018-12-21;2019-01-04;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+aef62434-cafc-4e27-867a-9b3c12415464;DE;2019-02-11;2019-02-15;School;Regional;DE Winterferien,EN Winter Holidays;TH
+d7e00a14-2d3a-4992-b9c4-b3a43e9458f0;DE;2019-04-15;2019-04-27;School;Regional;DE Osterferien,EN Easter Holidays;TH
+20f114ad-d897-45af-81ea-543518f79491;DE;2019-05-31;2019-05-31;School;Regional;DE Pfingstferien,EN Pentecost Holidays;TH
+fa251613-d510-4eed-b26c-a54a918c6c16;DE;2019-07-08;2019-08-17;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+458f9841-42c5-4aa5-a571-c4bcd48e45ad;DE;2019-10-07;2019-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+f9b55925-ed1a-4b55-ac74-f199b999fc37;DE;2019-12-21;2020-01-03;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+7b09e453-ec84-4787-a388-03caa148003b;DE;2020-02-10;2020-02-14;School;Regional;DE Winterferien,EN Winter Holidays;TH
+2493a2f7-7ad6-488c-bada-eda17231b311;DE;2020-04-06;2020-04-18;School;Regional;DE Osterferien,EN Easter Holidays;TH
+202492d2-139e-45b4-9e2b-98a507a84bf6;DE;2020-05-22;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+428afa4e-f302-4eff-ba72-e882a7288ae0;DE;2020-07-20;2020-08-29;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+52360344-575d-4d38-a574-4209e8b8ae30;DE;2020-10-17;2020-10-30;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+c30463ce-bf13-4adb-a435-fbb782b4bb02;DE;2020-12-23;2021-01-02;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+27fa0208-e732-4bae-b4de-eab872448981;DE;2021-01-25;2021-01-30;School;Regional;DE Winterferien,EN Winter Holidays;TH
+39591d00-c323-472c-8968-10178e77171e;DE;2021-03-29;2021-04-10;School;Regional;DE Osterferien,EN Easter Holidays;TH
+818ccf41-54ff-4d0f-baae-ce1831fb6b63;DE;2021-05-14;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+fdbb59ae-25a6-4ed2-8c85-feff4efa2e0f;DE;2021-07-26;2021-09-04;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+aae9f13e-3616-467f-a67b-c4b7f2cd404f;DE;2021-10-25;2021-11-06;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+3c04775b-761f-4e09-b0dc-4ec935f8313e;DE;2021-12-23;2021-12-31;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+65b500f5-a8b5-4817-8d68-75bd33044a3c;DE;2022-02-12;2022-02-19;School;Regional;DE Winterferien,EN Winter Holidays;TH
+08b5a3f2-6d29-4856-ad25-4fe8b4022970;DE;2022-04-11;2022-04-23;School;Regional;DE Osterferien,EN Easter Holidays;TH
+73b7c1e9-7ca9-40fc-9df5-48fc9fecac9a;DE;2022-05-27;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+8ae86e02-5cf2-489d-bfef-9c627464f296;DE;2022-07-18;2022-08-27;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+37898ddd-63df-48d9-995e-85c55c324b66;DE;2022-10-17;2022-10-29;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+01007b2a-7800-4e62-965c-f7de21401c19;DE;2022-12-22;2023-01-03;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+d3bfa2ac-e02b-4e02-90bb-ac78a677d2f1;DE;2023-02-13;2023-02-17;School;Regional;DE Winterferien,EN Winter Holidays;TH
+02a2d315-5ab6-450f-87bd-6f19ebe6e14d;DE;2023-04-03;2023-04-15;School;Regional;DE Osterferien,EN Easter Holidays;TH
+515e14e9-0063-43a7-9243-583ab60fceeb;DE;2023-05-19;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+b1264660-b41f-4bd3-ae19-c1b72357fdeb;DE;2023-07-10;2023-08-19;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+5bf5a0d0-6adf-42eb-9ba4-e348319ed332;DE;2023-10-02;2023-10-14;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+85aeb260-9f1c-4e7c-b3bf-e01a7b0cdd1d;DE;2023-12-22;2024-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+e13dffe2-6ad5-4eab-8452-3749f1d7eb31;DE;2024-02-12;2024-02-16;School;Regional;DE Winterferien,EN Winter Holidays;TH
+f03f9de5-d608-4492-82d0-256bed5b7c11;DE;2024-03-25;2024-04-06;School;Regional;DE Osterferien,EN Easter Holidays;TH
+839dc642-0efd-4ad5-94ef-cc00b3a0eaca;DE;2024-05-10;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+aa9f4dcb-d980-46b9-b407-9efc4e310a21;DE;2024-06-20;2024-07-31;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+d81e3e8b-07ad-4ca0-beb4-884ea76bac22;DE;2024-09-30;2024-10-12;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+890f7f2b-484b-476e-ba23-95465ea9aed8;DE;2024-12-23;2025-01-03;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+48f3266a-a478-4903-8b7e-dd5bc86e9ca5;DE;2025-02-03;2025-02-08;School;Regional;DE Winterferien,EN Winter Holidays;TH
+c5df7973-d0c2-4c01-8ed0-1639794bfdb3;DE;2025-04-07;2025-04-19;School;Regional;DE Osterferien,EN Easter Holidays;TH
+8f7c8143-6403-4924-bed0-3c9aa077d5f0;DE;2025-05-30;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+2be72545-34d8-4617-a89b-505d85ec8ec4;DE;2025-06-28;2025-08-08;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+b1b5dc5d-dc4f-422d-b9fc-dfcc4325a11e;DE;2025-10-06;2025-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+bbb3ae65-8f0a-40d1-babe-f9972dc323b2;DE;2025-12-22;2026-01-03;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+d0e6a7b5-039c-4969-b34b-c9c81cf43af5;DE;2026-02-16;2026-02-21;School;Regional;DE Winterferien,EN Winter Holidays;TH
+d394c68a-55d1-4e33-b695-5185e3784e19;DE;2026-04-07;2026-04-17;School;Regional;DE Osterferien,EN Easter Holidays;TH
+be32afce-90f0-4fcf-9ead-2b446960bfa7;DE;2026-05-15;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+5fec2836-3d12-4a43-987e-1ed22ce986a5;DE;2026-07-04;2026-08-14;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+dd933683-1b2b-49e6-9933-4b565cef0d37;DE;2026-10-12;2026-10-24;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+d143fd7f-0086-4866-b22e-870e069cf39a;DE;2026-12-23;2027-01-02;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+8e8f44e0-c470-4226-84f4-70037ae8afd2;DE;2027-02-01;2027-02-06;School;Regional;DE Winterferien,EN Winter Holidays;TH
+fcdcb494-ba46-4103-a151-577c7efa2913;DE;2027-03-22;2027-04-03;School;Regional;DE Osterferien,EN Easter Holidays;TH
+1cd32e62-e14b-45ca-b80a-aa344483b7f6;DE;2027-05-07;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+a4c356dd-ebbe-48c2-be43-99c574a0661a;DE;2027-07-10;2027-08-20;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+9796a9fe-d8b1-4501-ac41-3a88655f61be;DE;2027-10-09;2027-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+50fb61a8-4b54-4207-be23-7ba6c486ea61;DE;2027-12-23;2027-12-31;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+25eb1cde-3621-4098-a38a-18a7f6074a37;DE;2028-02-07;2028-02-12;School;Regional;DE Winterferien,EN Winter Holidays;TH
+062833d9-b258-4eda-90ff-005ea1ee832a;DE;2028-04-03;2028-04-15;School;Regional;DE Osterferien,EN Easter Holidays;TH
+0a592f56-9e46-4b30-8391-70c224408d14;DE;2028-05-26;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+cfd957ce-ea6a-4fd3-b85a-ac7d3adb78cc;DE;2028-07-22;2028-09-01;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+1a52b969-8565-47cc-a36a-15fba35e7e87;DE;2028-10-23;2028-11-03;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+ba8257e5-c040-46ae-b4e9-3fd8bb906853;DE;2028-12-23;2029-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+615a7574-d8a9-45af-b6e8-03b8c38a7f26;DE;2029-02-12;2029-02-17;School;Regional;DE Winterferien,EN Winter Holidays;TH
+63669d4f-0f53-4ad9-ae4c-fadb91bb5edf;DE;2029-03-26;2029-04-07;School;Regional;DE Osterferien,EN Easter Holidays;TH
+57deebcc-2a3d-4f92-9dfe-7884f09a903a;DE;2029-05-11;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+605eabc0-eb44-43ba-a4bb-201e65c0de17;DE;2029-07-21;2029-08-31;School;Regional;DE Sommerferien,EN Summer Holidays;TH
+003813bc-1bff-4520-b533-dc323b3eaaa2;DE;2029-10-22;2029-11-03;School;Regional;DE Herbstferien,EN Autumn Holidays;TH
+3e8d91a7-12e4-405c-a091-30220fa25eec;DE;2029-12-22;2030-01-04;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;TH
+ca39dc74-843a-4513-8f76-86776730fb6a;DE;2030-02-11;2030-02-16;School;Regional;DE Winterferien,EN Winter Holidays;TH
+6cd0034a-68c8-40a7-af9e-8741c0ece75f;DE;2030-04-08;2030-04-20;School;Regional;DE Osterferien,EN Easter Holidays;TH
+74456a45-fc03-49a6-a4ca-e40fcf2967c7;DE;2030-05-31;;School;Regional;DE Schulfreier Tag,EN Day off from school;TH
+0ebf639f-3088-42fd-b2da-ae9db71a56fa;DE;2030-07-13;2030-08-23;School;Regional;DE Sommerferien,EN Summer Holidays;TH
